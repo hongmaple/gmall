@@ -1,4 +1,6 @@
-        谷粒商城是一款按照企业级标准研发的项目，主页模块、分类模块、发现模块、购物车模块和个人中心模块。项目中讲解的主流技术包括且不限于RadioGroup + Fragment、OKHttp、FastJson、RecycleView、ScrollViewContainer、Banner、倒计时秒杀、自定义购物车、支付宝等技术。该项目中讲解的技术可应用在电商、新闻、旅游、医疗、在线教育等领域。
+
+
+谷粒商城是一款按照企业级标准研发的项目，主页模块、分类模块、发现模块、购物车模块和个人中心模块。项目中讲解的主流技术包括且不限于RadioGroup + Fragment、OKHttp、FastJson、RecycleView、ScrollViewContainer、Banner、倒计时秒杀、自定义购物车、支付宝等技术。该项目中讲解的技术可应用在电商、新闻、旅游、医疗、在线教育等领域。
 
 
 商城首页
